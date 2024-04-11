@@ -1,0 +1,45 @@
+{
+  "workbench.startupEditor": "none",
+  "git.autofetch": true,
+  "haskell.manageHLS": "GHCup",
+  "editor.codeActionsOnSave": {},
+  "haskell.formattingProvider": "brittany",
+  "svelte.enable-ts-plugin": true,
+  "http.proxyAuthorization": null,
+  "editor.semanticTokenColorCustomizations": {
+    "enabled": true
+  },
+  "editor.fontLigatures": true,
+  "editor.fontSize": 10,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "window.menuBarVisibility": "compact",
+  "workbench.colorCustomizations": {},
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.minimap.enabled": false,
+  "workbench.iconTheme": "vscode-icons",
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "window.zoomLevel": 1,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "files.associations": {
+    "*.ajs": "javascript"
+  },
+  "files.autoSave": "afterDelay",
+  "editor.formatOnSave": true
+}
